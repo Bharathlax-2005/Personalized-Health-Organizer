@@ -1,0 +1,565 @@
+{
+    "intents": [
+        {
+            "tag": "acne_foods_to_take",
+            "patterns": [
+                "foods to take acne",
+                "What about acne foods to take?",
+                "Tell me about acne foods to take"
+            ],
+            "responses": [
+                "Fruits and Vegetables: Rich in vitamins and antioxidants, fruits and vegetables help reduce inflammation and promote healthy skin. Foods high in vitamin A (like carrots and sweet potatoes), vitamin E (like spinach and almonds), and zinc (like pumpkin seeds) are particularly beneficial.\n\nWhole Grains: Foods such as oats, quinoa, and brown rice have a lower glycemic index, which helps maintain stable blood sugar levels and reduces the risk of acne flare-ups.\n\nOmega-3 Fatty Acids: Found in fatty fish (like salmon and mackerel), chia seeds, flaxseeds, and walnuts, omega-3s have anti-inflammatory properties that can help reduce acne.\n\nProbiotics: Foods like yogurt, kefir, sauerkraut, and kimchi promote a healthy gut, which can be linked to improved skin health.\n\nGreen Tea: Rich in antioxidants, green tea can help reduce inflammation and sebum production, potentially reducing acne.\n\nNuts and Seeds: Almonds, walnuts, chia seeds, and flaxseeds provide healthy fats, vitamins, and minerals that support skin health.\n\nLean Proteins: Include lean meats, fish, beans, and legumes to ensure adequate protein intake without excessive fats that can exacerbate acne."
+            ]
+        },
+        {
+            "tag": "acne_foods_to_avoid",
+            "patterns": [
+                "foods to avoid acne",
+                "What about acne foods to avoid?",
+                "Tell me about acne foods to avoid"
+            ],
+            "responses": [
+                "High-Glycemic Foods: Foods that spike blood sugar levels, such as white bread, sugary snacks, and refined grains, can increase insulin levels and lead to increased sebum production and acne.\n\nDairy Products: Some studies suggest a link between dairy consumption (especially skim milk) and acne. If dairy seems to trigger breakouts, consider reducing intake or choosing alternatives like almond or oat milk.\n\nProcessed Foods: These often contain high levels of sugars, unhealthy fats, and preservatives, which can contribute to inflammation and acne.\n\nSugary Foods and Beverages: Limit sweets, sugary drinks, and desserts, as they can cause blood sugar spikes and promote inflammation.\n\nFast Food and Fried Foods: These are typically high in unhealthy fats and oils, which can worsen acne."
+            ]
+        },
+        {
+            "tag": "acne_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips acne",
+                "What about acne lifestyle tips?",
+                "Tell me about acne lifestyle tips"
+            ],
+            "responses": [
+                "Don't wash affected areas of skin more than twice a day. Frequent washing can irritate the skin and make symptoms worse\r\nWash the affected area with a mild soap or cleanser and lukewarm water. Very hot or cold water can make acne worse\r\nDon't try to \"clean out\" blackheads or squeeze spots. This can make them worse and cause permanent scarring\r\nAvoid using too much make-up and cosmetics. Use water-based products that are described as non-comedogenic (this means the product is less likely to block the pores in your skin)\r\nCompletely remove make-up before going to bed\r\nIf dry skin is a problem, use a fragrance-free, water-based emollient\r\nRegular exercise can't improve your acne, but it can boost your mood and improve your self-esteem. Shower as soon as possible once you finish exercising, as sweat can irritate your acne\r\nWash your hair regularly and try to avoid letting your hair fall across your face"
+            ]
+        },
+        {
+            "tag": "abdominal_aortic_aneurysm_foods_to_take",
+            "patterns": [
+                "foods to take abdominal aortic aneurysm",
+                "What about abdominal aortic aneurysm foods to take?",
+                "Tell me about abdominal aortic aneurysm foods to take"
+            ],
+            "responses": [
+                "Healthy Foods to Take\nFruits and Vegetables: Rich in antioxidants, vitamins, and minerals, fruits and vegetables help in maintaining overall cardiovascular health. Aim for a variety of colors to ensure a range of nutrients.\n\nWhole Grains: Foods like oats, barley, quinoa, and whole wheat provide fiber, which can help lower cholesterol levels and improve heart health.\n\nLean Proteins: Include sources such as fish (especially fatty fish rich in omega-3 fatty acids like salmon and mackerel), chicken, turkey, and plant-based proteins like beans and legumes.\n\nHealthy Fats: Use sources of unsaturated fats like olive oil, avocados, nuts, and seeds. Omega-3 fatty acids found in fish and flaxseeds are particularly beneficial for heart health.\n\nLow-Fat Dairy: Opt for low-fat or fat-free dairy products to reduce saturated fat intake.\n\nNuts and Seeds: Almonds, walnuts, chia seeds, and flaxseeds are good sources of healthy fats, protein, and fiber.\n\nHerbs and Spices: Using herbs and spices like garlic, turmeric, and ginger can provide anti-inflammatory benefits and enhance the flavor of meals without adding extra salt."
+            ]
+        },
+        {
+            "tag": "abdominal_aortic_aneurysm_foods_to_avoid",
+            "patterns": [
+                "foods to avoid abdominal aortic aneurysm",
+                "What about abdominal aortic aneurysm foods to avoid?",
+                "Tell me about abdominal aortic aneurysm foods to avoid"
+            ],
+            "responses": [
+                "Processed and Fried Foods: These are often high in unhealthy fats, sodium, and preservatives, which can contribute to high blood pressure and other cardiovascular issues.\n\nSugary Foods and Beverages: Excessive sugar intake can lead to weight gain and increased inflammation, which are risk factors for cardiovascular diseases.\n\nHigh-Sodium Foods: Reduce salt intake to manage blood pressure. Avoid processed foods, canned soups, and salty snacks.\n\nRed and Processed Meats: These are high in saturated fats and cholesterol, which can negatively impact heart health.\n\nRefined Grains: Foods made from white flour, such as white bread and pastries, have less fiber and can contribute to weight gain and blood sugar spikes."
+            ]
+        },
+        {
+            "tag": "abdominal_aortic_aneurysm_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips abdominal aortic aneurysm",
+                "What about abdominal aortic aneurysm lifestyle tips?",
+                "Tell me about abdominal aortic aneurysm lifestyle tips"
+            ],
+            "responses": [
+                "Regular Exercise: Engage in moderate physical activity like walking, cycling, or swimming for at least 30 minutes most days of the week.\nQuit Smoking: Smoking is a major risk factor for aneurysms and cardiovascular disease.\nManage Stress: Practice stress-reducing techniques such as meditation, yoga, or deep breathing exercises."
+            ]
+        },
+        {
+            "tag": "allergies_foods_to_take",
+            "patterns": [
+                "foods to take allergies",
+                "What about allergies foods to take?",
+                "Tell me about allergies foods to take"
+            ],
+            "responses": [
+                "Healthy Foods to Take\nFruits: Rich in vitamins and antioxidants, they can help reduce inflammation.\n\nExamples: Apples, berries, citrus fruits.\nVegetables: Packed with essential nutrients that support immune function.\n\nExamples: Leafy greens (spinach, kale), broccoli, carrots.\nOmega-3 Fatty Acids: Anti-inflammatory properties that can help reduce allergic reactions.\n\nExamples: Fatty fish (salmon, mackerel), chia seeds, flaxseeds.\nProbiotics: Support a healthy gut, which can improve immune response.\n\nExamples: Yogurt, kefir, sauerkraut, kimchi.\nLocal Honey: May help build tolerance to local pollen.\n\nTurmeric: Anti-inflammatory spice that can help reduce symptoms.\n\nGreen Tea: Contains antihistamines and antioxidants."
+            ]
+        },
+        {
+            "tag": "allergies_foods_to_avoid",
+            "patterns": [
+                "foods to avoid allergies",
+                "What about allergies foods to avoid?",
+                "Tell me about allergies foods to avoid"
+            ],
+            "responses": [
+                "Dairy Products: Can increase mucus production and exacerbate symptoms for some people.\n\nProcessed Foods: Often contain additives and preservatives that can trigger allergic reactions.\n\nSugary Foods and Drinks: Can increase inflammation.\n\nAlcohol: Can exacerbate allergic symptoms and interact with medications.\n\nSpicy Foods: Can trigger histamine release in some people                 Vegetables :Bringal and Peanuts                                                              chicken "
+            ]
+        },
+        {
+            "tag": "allergies_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips allergies",
+                "What about allergies lifestyle tips?",
+                "Tell me about allergies lifestyle tips"
+            ],
+            "responses": [
+                "Identify and Avoid Triggers: Know your allergens and avoid exposure. Common allergens include pollen, dust mites, pet dander, mold, and certain foods.\n\nKeep Indoor Air Clean: Use air purifiers, keep windows closed during high pollen seasons, and regularly clean air filters.\n\nShower and Change Clothes: After being outdoors, shower and change to remove allergens from your skin and clothes.\n\nWash Bedding Regularly: Use hot water to kill dust mites and remove allergens.\n\nUse Hypoallergenic Products: Opt for hypoallergenic detergents, cosmetics, and cleaning products.\n\nStay Hydrated: Drinking plenty of fluids can help thin mucus and reduce congestion."
+            ]
+        },
+        {
+            "tag": "fever_foods_to_take",
+            "patterns": [
+                "foods to take fever",
+                "What about fever foods to take?",
+                "Tell me about fever foods to take"
+            ],
+            "responses": [
+                "Healthy Foods to Take:\n\nWater and clear fluids\nHerbal teas (ginger, chamomile)\nBroth-based soups\nFresh fruits (watermelon, oranges)\nSteamed vegetables\nPlain rice or oatmeal / Rasam and pepper Rasam "
+            ]
+        },
+        {
+            "tag": "fever_foods_to_avoid",
+            "patterns": [
+                "foods to avoid fever",
+                "What about fever foods to avoid?",
+                "Tell me about fever foods to avoid"
+            ],
+            "responses": [
+                "Sugary foods and drinks\nFried and greasy foods\nSpicy foods\nDairy products (if they cause mucus production)"
+            ]
+        },
+        {
+            "tag": "fever_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips fever",
+                "What about fever lifestyle tips?",
+                "Tell me about fever lifestyle tips"
+            ],
+            "responses": [
+                "Rest and avoid strenuous activity\nStay hydrated\nWear light clothing\nTake lukewarm baths"
+            ]
+        },
+        {
+            "tag": "dengue_fever_foods_to_take",
+            "patterns": [
+                "foods to take dengue fever",
+                "What about dengue fever foods to take?",
+                "Tell me about dengue fever foods to take"
+            ],
+            "responses": [
+                "Papaya leaf juice\nCitrus fruits (oranges, lemons)\nCoconut water\nPomegranate\nBoiled vegetables\nHerbal teas (neem, basil)"
+            ]
+        },
+        {
+            "tag": "dengue_fever_foods_to_avoid",
+            "patterns": [
+                "foods to avoid dengue fever",
+                "What about dengue fever foods to avoid?",
+                "Tell me about dengue fever foods to avoid"
+            ],
+            "responses": [
+                "Fatty and oily foods\nCaffeinated beverages\nSpicy foods\nAlcohol"
+            ]
+        },
+        {
+            "tag": "dengue_fever_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips dengue fever",
+                "What about dengue fever lifestyle tips?",
+                "Tell me about dengue fever lifestyle tips"
+            ],
+            "responses": [
+                "Stay hydrated\nUse mosquito repellent and nets\nGet plenty of rest\nMonitor platelet count regularly"
+            ]
+        },
+        {
+            "tag": "malaria_foods_to_take",
+            "patterns": [
+                "foods to take malaria",
+                "What about malaria foods to take?",
+                "Tell me about malaria foods to take"
+            ],
+            "responses": [
+                "Fresh fruits (berries, apples)\nLeafy greens (spinach, kale)\nWhole grains (brown rice, quinoa)\nLean proteins (chicken, fish)\nHerbal teas (ginger, turmeric)\nPlenty of fluids (water, coconut water)"
+            ]
+        },
+        {
+            "tag": "malaria_foods_to_avoid",
+            "patterns": [
+                "foods to avoid malaria",
+                "What about malaria foods to avoid?",
+                "Tell me about malaria foods to avoid"
+            ],
+            "responses": [
+                "Sugary foods and drinks\nProcessed foods\nRed meat\nCaffeinated beverages"
+            ]
+        },
+        {
+            "tag": "malaria_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips malaria",
+                "What about malaria lifestyle tips?",
+                "Tell me about malaria lifestyle tips"
+            ],
+            "responses": [
+                "Use mosquito nets and repellent\nAvoid outdoor activities at peak mosquito times (dawn and dusk)\nStay hydrated\nTake prescribed medications regularly"
+            ]
+        },
+        {
+            "tag": "brain_tumours_foods_to_take",
+            "patterns": [
+                "foods to take brain tumours",
+                "What about brain tumours foods to take?",
+                "Tell me about brain tumours foods to take"
+            ],
+            "responses": [
+                "Whole Grains:\nIdli made from whole grains (brown rice, millet)\nRagi dosa\nMultigrain chapati\nLeafy Greens:\nSpinach (palak), moringa leaves (drumstick leaves)\nKootu (vegetable and lentil curry) made with amaranth or other greens\nAntioxidant-Rich Foods:\nTurmeric with black pepper (turmeric milk or turmeric mixed in curries)\nBerries (amla, gooseberries in chutneys)\nLemon rice for added vitamin C\nHealthy Fats:\nCoconut oil (used for cooking or in chutneys)\nFlaxseeds (added to dosa or idli batter)\nHigh-Protein Foods:\nLentils (sambar, paruppu usili)\nSprouted legumes (green gram sundal)\nProbiotics:\nButtermilk (spiced with cumin and ginger)\nHomemade curd/yogurt (added to meals or as a side dish)"
+            ]
+        },
+        {
+            "tag": "brain_tumours_foods_to_avoid",
+            "patterns": [
+                "foods to avoid brain tumours",
+                "What about brain tumours foods to avoid?",
+                "Tell me about brain tumours foods to avoid"
+            ],
+            "responses": [
+                "Processed Foods:\n\nAvoid store-bought snacks like chips, biscuits, and processed instant mixes.\nSugary Foods:\n\nMinimize sweets like traditional Indian mithai, sugar-loaded desserts, and sugary beverages.\nHigh-Sodium Foods:\n\nAvoid pickles with excess salt, packaged papads, and overly salted snacks.\nRed Meat and Fatty Meats:\n\nLimit or avoid red meat and fatty cuts of meat in curries or biryani.\nRefined Grains:\n\nAvoid white rice, maida-based foods (like certain breads and snacks), and refined sugar.\n"
+            ]
+        },
+        {
+            "tag": "brain_tumours_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips brain tumours",
+                "What about brain tumours lifestyle tips?",
+                "Tell me about brain tumours lifestyle tips"
+            ],
+            "responses": [
+                "Stay Hydrated: Drink plenty of water and fluids like tender coconut water or herbal teas.\nExercise Regularly: Light exercises such as walking or yoga can help maintain overall health.\nManage Stress: Meditation, breathing exercises, and relaxation techniques are beneficial.\nRest Adequately: Ensure good sleep hygiene to help with recovery and overall well-being.\nLimit Exposure to Toxins: Avoid smoking and reduce exposure to harmful chemicals."
+            ]
+        },
+        {
+            "tag": "breast_cancer_(female)_foods_to_take",
+            "patterns": [
+                "foods to take breast cancer (female)",
+                "What about breast cancer (female) foods to take?",
+                "Tell me about breast cancer (female) foods to take"
+            ],
+            "responses": [
+                "Cruciferous Vegetables:\nCabbage poriyal\nCauliflower kurma\nBroccoli stir-fry with Indian spices\nFiber-Rich Foods:\nMillets (ragi, bajra) dosa or idli\nRed rice or brown rice\nOats upma or porridge\nPhytoestrogen-Rich Foods:\nFlaxseeds (added to dosa batter or chutney powder)\nSoy products (like tofu added to curries)\nSesame seeds (til ladoos or in chutneys)\nAntioxidant-Rich Foods:\nTurmeric (in curries, turmeric milk)\nBerries (like gooseberries in chutneys)\nLeafy greens (palak, moringa leaves in kootu or sambar)\nHealthy Fats:\nCoconut oil (for cooking)\nOlive oil (used in salads or stir-fries)\nHigh-Protein Foods:\nLentils (dal, sambar, chana sundal)\nSprouted legumes (sprouted green gram salad)\nPaneer (added to curries or palak paneer)"
+            ]
+        },
+        {
+            "tag": "breast_cancer_(female)_foods_to_avoid",
+            "patterns": [
+                "foods to avoid breast cancer (female)",
+                "What about breast cancer (female) foods to avoid?",
+                "Tell me about breast cancer (female) foods to avoid"
+            ],
+            "responses": [
+                "Processed Foods:\n\nPackaged snacks like chips, biscuits, instant noodles.\nSugary Foods:\n\nIndian sweets loaded with sugar (gulab jamun, jalebi).\nSugary beverages (soft drinks, packaged fruit juices).\nHigh-Fat Foods:\n\nDeep-fried snacks (vada, pakora).\nFoods high in saturated fats (ghee-heavy dishes in excess).\nAlcohol and Caffeine:\n\nLimit alcohol intake and caffeinated drinks like strong coffee.\nRed Meat and Processed Meats:\n\nAvoid red meat (like mutton) and processed meats (like sausages or bacon)."
+            ]
+        },
+        {
+            "tag": "breast_cancer_(female)_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips breast cancer (female)",
+                "What about breast cancer (female) lifestyle tips?",
+                "Tell me about breast cancer (female) lifestyle tips"
+            ],
+            "responses": [
+                "Regular exercise and a healthy, balanced diet are recommended for all women because they can help prevent many conditions, including heart disease, diabetes and many forms of cancer.\r\n\r\nRegular exercise can reduce your risk of developing breast cancer. If you have been through the menopause, it\u2019s particularly important that you\u2019re not overweight or obese. This is because these conditions cause more oestrogen to be produced, which can increase the risk of breast cancer."
+            ]
+        },
+        {
+            "tag": "cardiovascular_disease_foods_to_take",
+            "patterns": [
+                "foods to take cardiovascular disease",
+                "What about cardiovascular disease foods to take?",
+                "Tell me about cardiovascular disease foods to take"
+            ],
+            "responses": [
+                "Whole Grains and High-Fiber Foods:\nBrown rice, red rice, or millets (like ragi, bajra) instead of white rice.\nWhole wheat chapati or multigrain dosa.\nOats upma or pongal.\nLeafy Greens and Vegetables:\nSpinach (palak), moringa leaves (drumstick leaves) in kootu or stir-fries.\nVegetables like beans, carrots, and cabbage in poriyal or avial.\nInclude bitter gourd and gourds in curries.\nFruits:\nIndian fruits like guava, pomegranate, papaya, and bananas.\nBerries (amla) and citrus fruits like oranges and lemons (added to salads or juices).\nHealthy Fats:\nUse of groundnut oil, sesame oil, or olive oil in moderation.\nCoconut in limited quantities (grated in dishes or coconut chutney).\nIncorporate flaxseeds and walnuts in snacks or chutneys.\nLegumes and Pulses:\nLentil dishes like sambar, dal, or paruppu usili.\nSprouted green gram sundal or chickpea salad.\nLow-Fat Dairy:\nUse toned or skimmed milk for curd/yogurt.\nPaneer made from low-fat milk in curries."
+            ]
+        },
+        {
+            "tag": "cardiovascular_disease_foods_to_avoid",
+            "patterns": [
+                "foods to avoid cardiovascular disease",
+                "What about cardiovascular disease foods to avoid?",
+                "Tell me about cardiovascular disease foods to avoid"
+            ],
+            "responses": [
+                "Refined Grains and Sugary Foods:\nWhite rice, maida-based foods like breads, and sugary snacks.\nAvoid traditional sweets high in sugar (like laddoos, halwa).\nHigh-Sodium Foods:\nPickles, papads, and packaged snacks with excess salt.\nReduce salt in cooking and avoid salty processed foods.\nFried and High-Fat Foods:\nAvoid deep-fried foods like vada, bajji, and chips.\nLimit ghee and butter in cooking and heavy gravies.\nRed Meat and Processed Meats:\nMinimize red meat like mutton and avoid processed meats like sausages or bacon.\nAlcohol and Caffeine:\nLimit alcohol intake and avoid excessive coffee or caffeinated drinks."
+            ]
+        },
+        {
+            "tag": "cardiovascular_disease_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips cardiovascular disease",
+                "What about cardiovascular disease lifestyle tips?",
+                "Tell me about cardiovascular disease lifestyle tips"
+            ],
+            "responses": [
+                "Regular Physical Activity: Engage in moderate exercise such as walking, cycling, or yoga for at least 30 minutes daily.\nQuit Smoking: Avoid smoking or exposure to secondhand smoke to reduce cardiovascular risks.\nManage Stress: Practice relaxation techniques like meditation, deep breathing exercises, and mindfulness to reduce stress.\nMonitor Blood Pressure and Cholesterol: Regularly check blood pressure, cholesterol, and blood sugar levels and follow up with your doctor.\nHealthy Weight Management: Maintain a healthy weight through a balanced diet and regular physical activity.\nAdequate Sleep: Ensure 7-8 hours of sleep to support overall heart health."
+            ]
+        },
+        {
+            "tag": "chickenpox_foods_to_take",
+            "patterns": [
+                "foods to take chickenpox",
+                "What about chickenpox foods to take?",
+                "Tell me about chickenpox foods to take"
+            ],
+            "responses": [
+                "Soft and Easily Digestible Foods:\n\nRice porridge (kanji) made with brown rice or broken rice.\nIdli with mild coconut chutney.\nMoong dal khichdi (lightly spiced).\nHydrating Foods:\n\nTender coconut water for hydration.\nButtermilk (spiced with a pinch of cumin and ginger).\nLight vegetable soups (carrot or pumpkin soup).\nImmunity-Boosting Foods:\n\nTurmeric milk (haldi doodh) to boost immunity.\nLeafy greens (palak, drumstick leaves) in kootu or mild dal.\nAmla (gooseberry) chutney or juice for vitamin C.\nCooling Foods:\n\nRagi malt or porridge to cool the body.\nSteamed vegetables like pumpkin, carrots, and gourds (bottle gourd, ridge gourd) in light curries.\nSabudana (tapioca) khichdi or porridge.\nProbiotics:\n\nCurd or yogurt (added to rice or consumed as buttermilk).\nFermented rice (pazham kanji) with minimal spices."
+            ]
+        },
+        {
+            "tag": "chickenpox_foods_to_avoid",
+            "patterns": [
+                "foods to avoid chickenpox",
+                "What about chickenpox foods to avoid?",
+                "Tell me about chickenpox foods to avoid"
+            ],
+            "responses": [
+                "Spicy and Oily Foods:\nAvoid spicy curries and deep-fried snacks like pakoras, bajjis.\nAcidic Foods:\nLimit tomatoes, tamarind, and citrus fruits like oranges (which might irritate mouth sores).\nSugary and Processed Foods:\nAvoid sweets like laddoos, sugary drinks, and processed snacks.\nRed Meat and Heavy Gravies:\nAvoid heavy meat-based dishes like biryani or mutton curry.\nDry and Rough Foods:\nAvoid dry, rough foods like biscuits or coarse snacks that could irritate the throat."
+            ]
+        },
+        {
+            "tag": "chickenpox_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips chickenpox",
+                "What about chickenpox lifestyle tips?",
+                "Tell me about chickenpox lifestyle tips"
+            ],
+            "responses": [
+                "Rest and Recovery: Ensure plenty of rest to help the body recover faster.\nStay Hydrated: Drink plenty of fluids like water, tender coconut water, and clear soups to stay hydrated.\nCool Baths: Lukewarm baths with neem leaves can help soothe itching and calm the skin.\nWear Loose Cotton Clothing: Choose soft, breathable cotton clothes to avoid irritation.\nHygiene and Skin Care: Keep nails trimmed to avoid scratching and apply calamine lotion to soothe itching."
+            ]
+        },
+        {
+            "tag": "chronic_kidney_disease_foods_to_take",
+            "patterns": [
+                "foods to take chronic kidney disease",
+                "What about chronic kidney disease foods to take?",
+                "Tell me about chronic kidney disease foods to take"
+            ],
+            "responses": [
+                "Low-Potassium Vegetables:\nBottle gourd (sorakaya) curry.\nRidge gourd (beerakaya) stir-fry.\nSnake gourd (potlakaya) kootu.\nLow-Sodium Options:\nSteamed idlis or plain dosas with minimal salt.\nRice-based dishes like curd rice (with limited salt).\nSoft white rice with ghee and boiled vegetables.\nControlled Protein Sources:\nMoong dal (green gram) sambar (limited quantity).\nSmall servings of paneer (made from low-sodium milk).\nLean protein like well-cooked, deboned fish (if allowed).\nLow-Phosphorus Foods:\nApples, papayas, and pears as safe fruit options.\nRagi malt (in limited quantities, based on phosphorus levels).\nWhite rice as a staple grain instead of millets or whole grains."
+            ]
+        },
+        {
+            "tag": "chronic_kidney_disease_foods_to_avoid",
+            "patterns": [
+                "foods to avoid chronic kidney disease",
+                "What about chronic kidney disease foods to avoid?",
+                "Tell me about chronic kidney disease foods to avoid"
+            ],
+            "responses": [
+                "High-Potassium Foods:\n\nBananas, oranges, and mangoes.\nPotatoes, tomatoes, and spinach.\nCoconut water and jaggery (rich in potassium).\nHigh-Sodium Foods:\n\nPickles, papads, and commercial snacks like chips.\nProcessed foods like instant noodles and sauces.\nExcess salt in cooking or table salt.\nHigh-Phosphorus Foods:\n\nDairy products like full-fat milk, cheese, and yogurt.\nNuts and seeds (like almonds and peanuts).\nWhole grains like millets and pulses (unless advised).\nExcessive Protein:\n\nLarge servings of dal or pulses.\nRed meat and high-protein foods like mutton or chicken.\nEggs (if not recommended by a dietitian).\nSugary and Processed Foods:\n\nSweets made with refined sugar (like halwa or ladoos).\nSugary beverages, carbonated drinks, and packaged juices."
+            ]
+        },
+        {
+            "tag": "chronic_kidney_disease_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips chronic kidney disease",
+                "What about chronic kidney disease lifestyle tips?",
+                "Tell me about chronic kidney disease lifestyle tips"
+            ],
+            "responses": [
+                "Monitor Fluid Intake: Depending on your kidney function, your healthcare provider might limit fluid intake. Include water, soups, and permitted fluids in moderation.\nRegular Exercise: Engage in light activities like walking or yoga to keep fit, but avoid overexertion.\nControl Blood Pressure and Diabetes: Regular monitoring and management of blood pressure and blood sugar levels are essential for CKD patients.\nAvoid Over-The-Counter Medications: Some painkillers and medications can strain the kidneys, so always consult your doctor before taking any new medication.\nBalanced Meals: Stick to small, frequent meals that are low in salt, potassium, and phosphorus while meeting your nutritional needs.\nSleep and Stress Management: Ensure adequate sleep and practice relaxation techniques like meditation to manage stress."
+            ]
+        },
+        {
+            "tag": "cold_sore_foods_to_take",
+            "patterns": [
+                "foods to take cold sore",
+                "What about cold sore foods to take?",
+                "Tell me about cold sore foods to take"
+            ],
+            "responses": [
+                "Foods Rich in Lysine (an amino acid that may help reduce outbreaks):\nDairy products like curd (yogurt) and paneer.\nDishes like buttermilk (spiced with cumin and ginger).\nBoiled eggs or lean protein (chicken stew, if non-vegetarian).\nVitamin C-Rich Foods:\nCitrus fruits like oranges and lemons (in moderation).\nGuava, amla (Indian gooseberry), and papaya.\nRed and yellow bell peppers in vegetable curries or salads.\nFoods Rich in Antioxidants:\nTurmeric in curries or turmeric milk (haldi doodh).\nLeafy greens like moringa (drumstick leaves) in kootu.\nGarlic chutney or garlic-flavored dishes (antiviral properties).\nSoothing and Hydrating Foods:\nTender coconut water for hydration.\nRice porridge (kanji) or millet porridge (ragi malt).\nMild soups (pumpkin or carrot soup) and broths."
+            ]
+        },
+        {
+            "tag": "cold_sore_foods_to_avoid",
+            "patterns": [
+                "foods to avoid cold sore",
+                "What about cold sore foods to avoid?",
+                "Tell me about cold sore foods to avoid"
+            ],
+            "responses": [
+                "Foods High in Arginine (an amino acid that may trigger outbreaks):\n\nNuts like almonds, peanuts, and cashews.\nSeeds (like sesame seeds) in dishes or snacks.\nChocolate (contains arginine, which may aggravate symptoms).\nSpicy and Acidic Foods:\n\nSpicy curries and pickles that can irritate cold sores.\nAcidic fruits like tomatoes, tamarind, and raw citrus (if sores are sensitive).\nSugary and Processed Foods:\n\nSweets like jaggery-based desserts, sugary snacks, or beverages.\nProcessed snacks like chips, biscuits, or packaged sweets.\nAlcohol and Caffeine:\n\nAvoid alcohol and limit caffeine (coffee, tea) as they can weaken immunity."
+            ]
+        },
+        {
+            "tag": "cold_sore_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips cold sore",
+                "What about cold sore lifestyle tips?",
+                "Tell me about cold sore lifestyle tips"
+            ],
+            "responses": [
+                "Maintain Hygiene: Avoid touching cold sores and wash hands frequently. Use separate towels and avoid sharing utensils to prevent spreading the virus.\nManage Stress: Stress can trigger outbreaks, so practice relaxation techniques like deep breathing, yoga, or meditation.\nUse Lip Balms and Sunscreen: Protect your lips from excessive sun exposure by using lip balms with SPF to prevent cold sore flare-ups.\nStay Hydrated: Drink plenty of water and include hydrating foods to keep your body well-hydrated.\nBoost Immunity: Ensure a diet rich in fruits, vegetables, and immune-boosting foods to help the body fight the virus."
+            ]
+        },
+        {
+            "tag": "common_cold_foods_to_take",
+            "patterns": [
+                "foods to take common cold",
+                "What about common cold foods to take?",
+                "Tell me about common cold foods to take"
+            ],
+            "responses": [
+                "Warm, Soothing Foods:\n\nPepper rasam: Made with black pepper, tamarind, and cumin, this traditional dish can help clear congestion and soothe the throat.\nHot soups: Lentil soup (paruppu rasam) or chicken soup with garlic and ginger can help reduce inflammation and provide warmth.\nKanji (rice porridge): Easily digestible and gentle on the stomach, add spices like cumin, black pepper, and ginger.\nImmunity-Boosting Ingredients:\n\nGinger tea: A warm drink made with ginger, tulsi (holy basil), and honey can help relieve sore throats and nasal congestion.\nTurmeric milk (haldi doodh): Known for its anti-inflammatory properties, this traditional remedy is effective for cold symptoms.\nGarlic chutney: Garlic has antiviral properties and can be added to meals or consumed in a chutney form.\nVitamin C-Rich Foods:\n\nAmla (Indian gooseberry): Can be consumed as juice or in chutney form to boost immunity.\nLemon juice: Add to warm water with honey for relief from cold symptoms.\nOranges and guavas: Consume in moderation for vitamin C intake.\nEasily Digestible Foods:\n\nIdli: Light and easy to digest, can be paired with mild chutney.\nUpma: Made with semolina (rava) and vegetables, it is light on the stomach.\nSteamed vegetables: Include vegetables like carrots, pumpkins, and gourds."
+            ]
+        },
+        {
+            "tag": "common_cold_foods_to_avoid",
+            "patterns": [
+                "foods to avoid common cold",
+                "What about common cold foods to avoid?",
+                "Tell me about common cold foods to avoid"
+            ],
+            "responses": [
+                "Dairy Products:\n\nCurd and cold milk: Can worsen mucus production in some people, leading to more congestion.\nCold and Sugary Foods:\n\nCold drinks and ice creams: Can irritate the throat and prolong symptoms.\nSweets and sugary foods: Reduce the body\u2019s ability to fight infections by weakening the immune response.\nSpicy and Fried Foods:\n\nDeep-fried snacks: Avoid bajjis, pakoras, and oily food, as they are hard to digest.\nHighly spiced curries: Can irritate the throat and worsen congestion."
+            ]
+        },
+        {
+            "tag": "common_cold_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips common cold",
+                "What about common cold lifestyle tips?",
+                "Tell me about common cold lifestyle tips"
+            ],
+            "responses": [
+                "Stay Hydrated: Drink plenty of warm fluids, such as herbal teas, warm water with honey, and broths, to keep the throat moist and flush out toxins.\nInhalation Therapy: Steam inhalation with eucalyptus oil or plain hot water can help relieve nasal congestion.\nRest and Sleep: Ensure adequate rest and sleep to allow the body to recover faster.\nWarm Saltwater Gargles: Gargling with warm saltwater can soothe a sore throat and reduce inflammation.\nHumidify Your Space: Use a humidifier or keep a bowl of water in your room to add moisture to the air, helping to relieve congestion."
+            ]
+        },
+        {
+            "tag": "cough_foods_to_take",
+            "patterns": [
+                "foods to take cough",
+                "What about cough foods to take?",
+                "Tell me about cough foods to take"
+            ],
+            "responses": [
+                "Soothing Warm Drinks:\n\nGinger tea: Made with fresh ginger, tulsi (holy basil), and honey. This combination can help soothe the throat and reduce inflammation.\nTurmeric milk (haldi doodh): This traditional remedy has anti-inflammatory and antimicrobial properties, making it effective for both dry and chesty coughs.\nHerbal kashayam: A decoction made with herbs like black pepper, cumin, dry ginger, and coriander seeds can help relieve cough symptoms.\nMucus-Clearing Foods:\n\nPepper rasam: A spicy soup made with black pepper, tamarind, and garlic, which can help clear congestion and soothe the throat.\nHoney and tulsi mixture: Consuming a mixture of honey and tulsi leaves can help reduce cough frequency and soothe irritation.\nEasily Digestible Foods:\n\nIdli and dosa: Soft foods that are easy on the throat and stomach.\nSteamed vegetables: Include vegetables like gourds, carrots, and pumpkins in your meals.\nMoong dal khichdi: A light, comforting meal made with split green gram and rice, easy to digest.\nVitamin C-Rich Foods:\n\nAmla (Indian gooseberry): Rich in vitamin C and boosts immunity. Consume as juice or chutney.\nLemon water: Add lemon juice to warm water with honey for added vitamin C and throat relief."
+            ]
+        },
+        {
+            "tag": "cough_foods_to_avoid",
+            "patterns": [
+                "foods to avoid cough",
+                "What about cough foods to avoid?",
+                "Tell me about cough foods to avoid"
+            ],
+            "responses": [
+                "Cold Foods and Drinks:\n\nIce cream, chilled beverages, and cold water can irritate the throat and prolong symptoms.\nDairy Products:\n\nMilk and curd, especially if cold, can increase mucus production for some individuals.\nFried and Oily Foods:\n\nAvoid fried snacks like pakoras, chips, and heavy foods as they can be harder to digest and may worsen a cough.\nSugary and Processed Foods:\n\nSweets, sugary drinks, and refined foods can weaken the immune system and increase inflammation.\nSpicy Foods:\n\nHighly spicy curries and dishes may irritate the throat further and lead to coughing fits."
+            ]
+        },
+        {
+            "tag": "cough_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips cough",
+                "What about cough lifestyle tips?",
+                "Tell me about cough lifestyle tips"
+            ],
+            "responses": [
+                "Stay Hydrated: Drink plenty of warm fluids to keep the throat moist and soothe irritation.\nSteam Inhalation: Inhaling steam with eucalyptus oil or plain water can help relieve congestion and soothe the airways.\nGargle with Saltwater: Gargling with warm saltwater can help reduce throat irritation and soothe a dry cough.\nUse Honey: A teaspoon of honey before bedtime can help reduce coughing at night and improve sleep quality.\nRest: Adequate rest is important to allow the body to recover and fight off any underlying infections."
+            ]
+        },
+        {
+            "tag": "diabetes_foods_to_take",
+            "patterns": [
+                "foods to take diabetes",
+                "What about diabetes foods to take?",
+                "Tell me about diabetes foods to take"
+            ],
+            "responses": [
+                "Low Glycemic Index (GI) Foods:\n\nMillets: Use traditional millets like ragi (finger millet), bajra (pearl millet), and jowar (sorghum) instead of refined grains.\nBrown rice or red rice: Substitute polished white rice with brown or red rice to keep blood sugar levels stable.\nWhole wheat: Include whole wheat items like chapati, dosa made with whole wheat batter, or wheat upma.\nFiber-Rich Vegetables:\n\nLeafy greens: Dishes made with spinach (keerai), moringa leaves, or methi (fenugreek) leaves.\nBitter gourd (pavakkai): Traditional preparations like bitter gourd stir-fry or curry can help manage blood sugar levels.\nPumpkin and bottle gourd: Include these in curries, kootu, or soups as they are low in carbohydrates and high in fiber.\nProtein-Rich Foods:\n\nLegumes and lentils: Include moong dal, toor dal, and other pulses in sambar, curries, and salads.\nPaneer and curd: Opt for low-fat versions of paneer and curd, which provide protein without raising blood sugar levels.\nHealthy Fats:\n\nCoconut: Use moderate amounts of coconut oil or fresh coconut in cooking.\nNuts and seeds: Include small portions of almonds, flaxseeds, or pumpkin seeds for healthy fats and fiber.\nTraditional Diabetic-Friendly Snacks:\n\nSundal (steamed legumes): A healthy snack made with boiled chickpeas or green gram, seasoned with spices and coconut.\nRagi dosa or idli: Made from finger millet, these are nutritious and help keep blood sugar levels stable."
+            ]
+        },
+        {
+            "tag": "diabetes_foods_to_avoid",
+            "patterns": [
+                "foods to avoid diabetes",
+                "What about diabetes foods to avoid?",
+                "Tell me about diabetes foods to avoid"
+            ],
+            "responses": [
+                "Refined and Processed Carbohydrates:\n\nWhite rice and refined flour: Substitute with brown rice or millet-based alternatives.\nBakery items and sweets: Avoid sugar-laden pastries, cakes, and Indian sweets like ladoos and gulab jamun.\nSugary Foods and Drinks:\n\nSugary beverages: Stay away from soft drinks, sweetened fruit juices, and energy drinks.\nHigh-sugar snacks: Avoid snacks like biscuits, packaged sweets, and chocolates.\nStarchy Vegetables:\n\nPotatoes: Limit potato-based dishes like aloo curry or fries.\nYams and colocasia (arbi): Avoid consuming these in large amounts, as they can spike blood sugar.\nHigh-Fat and Deep-Fried Foods:\n\nFried snacks: Avoid vadas, pakoras, and chips, as they are high in unhealthy fats and calories.\nGhee and butter: Use sparingly, as excess saturated fats can impact heart health."
+            ]
+        },
+        {
+            "tag": "diabetes_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips diabetes",
+                "What about diabetes lifestyle tips?",
+                "Tell me about diabetes lifestyle tips"
+            ],
+            "responses": [
+                "Regular Physical Activity: Engage in daily exercise such as walking, yoga, or light aerobic exercises to help regulate blood sugar levels.\nPortion Control: Practice mindful eating by controlling portion sizes, especially for carbohydrate-rich foods.\nMonitor Blood Sugar Levels: Regularly check blood sugar levels to understand how different foods affect your glucose levels.\nStay Hydrated: Drink plenty of water and include herbal teas like fenugreek tea, which may help with glucose management.\nManage Stress: High stress levels can affect blood sugar control, so engage in stress-relieving practices like meditation or pranayama."
+            ]
+        },
+        {
+            "tag": "diarrhoea_foods_to_take",
+            "patterns": [
+                "foods to take diarrhoea",
+                "What about diarrhoea foods to take?",
+                "Tell me about diarrhoea foods to take"
+            ],
+            "responses": [
+                "Easily Digestible Foods:\n\nRice kanji: A traditional South Indian porridge made from well-cooked rice with added salt can help soothe the stomach and prevent dehydration.\nIdli: Soft, steamed idlis are light on the stomach and easy to digest.\nMoong dal khichdi: Made with split green gram and rice, this dish is gentle on the digestive system and provides some nutrition during recovery.\nProbiotic-Rich Foods:\n\nButtermilk (mor): Fresh buttermilk with a pinch of salt and roasted cumin can help restore healthy gut bacteria and reduce inflammation.\nCurd rice: A traditional dish that combines curd (yogurt) with soft rice. The probiotics in curd help restore gut flora balance.\nElectrolyte-Replenishing Foods:\n\nTender coconut water: It is rich in electrolytes and helps keep you hydrated.\nBananas: The potassium in bananas helps replenish electrolytes lost due to diarrhea and is also easy to digest.\nSteamed carrots: Carrots are easy to digest and provide nutrients while being gentle on the digestive tract.\nLow-Fiber Foods:\n\nRava upma (semolina): A soft, cooked dish made with semolina, lightly seasoned, and easy to digest.\nArrowroot porridge: Traditionally used to manage diarrhea, arrowroot is bland and calming for the stomach."
+            ]
+        },
+        {
+            "tag": "diarrhoea_foods_to_avoid",
+            "patterns": [
+                "foods to avoid diarrhoea",
+                "What about diarrhoea foods to avoid?",
+                "Tell me about diarrhoea foods to avoid"
+            ],
+            "responses": [
+                "Spicy and Oily Foods:\n\nSpicy curries and chutneys: Avoid spicy dishes that can irritate the stomach and worsen diarrhea.\nDeep-fried foods: Foods like vadas, pakoras, and chips can be hard to digest and should be avoided.\nHigh-Fiber and Gas-Producing Foods:\n\nBeans and lentils: Foods like rajma, chana, and other pulses can cause bloating and worsen diarrhea.\nRaw vegetables: Avoid raw salads, cabbage, and cauliflower, which can be difficult to digest.\nDairy Products:\n\nMilk and cheese: Some people may experience lactose intolerance during diarrhea, making these foods hard to digest.\nSugary Foods and Drinks:\n\nFruit juices and sweets: Sugary foods and beverages can draw water into the intestines and worsen diarrhea.\nArtificial sweeteners: Avoid diet sodas and foods containing sorbitol, which can aggravate symptoms.\nCaffeinated and Alcoholic Beverages:\n\nCoffee and tea: These can stimulate the digestive tract and worsen diarrhea.\nAlcohol: It can irritate the stomach lining and lead to dehydration."
+            ]
+        },
+        {
+            "tag": "diarrhoea_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips diarrhoea",
+                "What about diarrhoea lifestyle tips?",
+                "Tell me about diarrhoea lifestyle tips"
+            ],
+            "responses": [
+                "Stay Hydrated: Drink plenty of fluids like ORS (oral rehydration solution), tender coconut water, and clear soups to prevent dehydration.\nEat Small, Frequent Meals: Consuming small portions at regular intervals helps ease digestion and reduces strain on the stomach.\nRest: Give your body time to recover by getting plenty of rest.\nAvoid Raw and Uncooked Foods: Stick to cooked and easily digestible foods until symptoms improve.\nIntroduce Foods Gradually: As you start to feel better, reintroduce solid foods slowly, focusing on low-fiber options initially."
+            ]
+        },
+        {
+            "tag": "depression_foods_to_take",
+            "patterns": [
+                "foods to take depression",
+                "What about depression foods to take?",
+                "Tell me about depression foods to take"
+            ],
+            "responses": [
+                "Mood-Boosting Foods Rich in Omega-3 Fatty Acids:\n\nFlaxseeds and chia seeds: Add these seeds to your breakfast, smoothies, or traditional dishes like chutneys.\nWalnuts: Include a small handful of walnuts daily as a snack or in dishes like raita and salads.\nFoods High in B Vitamins:\n\nSpinach (keerai): Include leafy greens like spinach in dishes like keerai masiyal or keerai sambar.\nBananas: Eat a banana daily or incorporate them in traditional dishes like pazham pori (banana fritters).\nTryptophan-Rich Foods:\n\nTurmeric: Use turmeric in traditional curries and milk (haldi doodh), as it is known for its anti-inflammatory and mood-enhancing properties.\nCottage cheese (paneer): Include paneer in curries or stir-fries for a protein and tryptophan boost.\nComplex Carbohydrates:\n\nBrown rice and millets: Use these grains as a staple instead of white rice. Dishes like millet dosa or brown rice pongal are nutritious and mood-boosting.\nOats: Prepare dishes like oats upma or porridge with added nuts and fruits.\nAntioxidant-Rich Foods:\n\nBerries: Blueberries, strawberries, and gooseberries (amla) are rich in antioxidants. You can include them in smoothies, salads, or as snacks.\nDark leafy vegetables: Incorporate vegetables like moringa leaves and drumstick (murungai keerai) in sambar or kootu."
+            ]
+        },
+        {
+            "tag": "depression_foods_to_avoid",
+            "patterns": [
+                "foods to avoid depression",
+                "What about depression foods to avoid?",
+                "Tell me about depression foods to avoid"
+            ],
+            "responses": [
+                "Refined Sugars and Processed Foods:\n\nSugary snacks and drinks: Limit sweets, cakes, and soft drinks that can lead to energy crashes and mood swings.\nFast food: Avoid high-fat, processed foods like fried snacks, chips, and packaged meals that can negatively impact mental health.\nCaffeine and Alcohol:\n\nCoffee and tea: Excessive caffeine can worsen anxiety and sleep disturbances, so it\u2019s better to limit intake.\nAlcohol: Alcohol can act as a depressant and interfere with medication or therapy.\nTrans Fats and Unhealthy Oils:\n\nDeep-fried foods: Foods like bajjis, bondas, and chips should be avoided as they are high in unhealthy fats and can negatively impact mood.\nArtificial Sweeteners:\n\nDiet sodas and sugar-free snacks: Artificial sweeteners like aspartame may have adverse effects on mood and mental health."
+            ]
+        },
+        {
+            "tag": "depression_lifestyle_tips",
+            "patterns": [
+                "lifestyle tips depression",
+                "What about depression lifestyle tips?",
+                "Tell me about depression lifestyle tips"
+            ],
+            "responses": [
+                "Regular Exercise: Incorporate at least 30 minutes of physical activity like walking, yoga, or dancing into your daily routine to boost endorphins.\nMindfulness and Meditation: Practice deep breathing, meditation, and mindfulness techniques to manage stress and enhance mental well-being.\nAdequate Sleep: Aim for 7-8 hours of quality sleep each night. Develop a calming bedtime routine, such as drinking warm turmeric milk or reading a book.\nSocial Support: Stay connected with friends and family. Engaging in community activities or spending time with loved ones can have a positive impact.\nSet a Routine: Establishing a daily routine, including set times for meals, exercise, and relaxation, can help stabilize mood."
+            ]
+        }
+    ]
+}
